@@ -1,0 +1,20 @@
+101
+Database Management System
+Korth
+0
+102
+Computer Networks
+Andrew S. Tanenbaum
+0
+103
+Programming in C++
+E. Balagurusamy
+0
+104
+Operating System
+Galvin
+0
+105
+Data Structures
+Seymour Lipschutz
+0
